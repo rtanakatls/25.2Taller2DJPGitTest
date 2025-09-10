@@ -10,6 +10,7 @@ namespace Taller2DJP252GitTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola mundo");
         }
     }
 }
